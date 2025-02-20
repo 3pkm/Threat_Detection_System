@@ -52,6 +52,7 @@
                   "maximumError": "4kb"
                 }
               ],
+              "baseHref": "/Threat_Detection_System/",
               "outputHashing": "all"
             },
             "development": {
